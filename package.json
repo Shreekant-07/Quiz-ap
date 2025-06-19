@@ -1,6 +1,6 @@
 {
   "name": "quiz",
-"homepage": "https://Shreekant-07.github.io/Quiz-ap",
+  "homepage": "https://Shreekant-07.github.io/Quiz-ap",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.1.0",
