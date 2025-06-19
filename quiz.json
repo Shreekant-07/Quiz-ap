@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is MS Dhoni's full name?",
+    "options": [
+      "Mahendra Singh Dhoni",
+      "Mohan Shankar Dhoni",
+      "Maheshwar Singh Dhoni",
+      "Manish Suresh Dhoni"
+    ],
+    "answer": "Mahendra Singh Dhoni"
+  },
+  {
+    "question": "Which IPL team did MS Dhoni captain?",
+    "options": [
+      "Mumbai Indians",
+      "Chennai Super Kings",
+      "Royal Challengers Bangalore",
+      "Delhi Capitals"
+    ],
+    "answer": "Chennai Super Kings"
+  },
+  {
+    "question": "In which year did MS Dhoni make his international debut?",
+    "options": ["2002", "2003", "2004", "2005"],
+    "answer": "2004"
+  },
+  {
+    "question": "What is MS Dhoni's nickname?",
+    "options": ["Mahi", "Captain Cool", "Thala", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which batting position was MS Dhoni famous for?",
+    "options": ["Opener", "Number 3", "Number 4", "Finisher (Number 5/6)"],
+    "answer": "Finisher (Number 5/6)"
+  },
+  {
+    "question": "Which country did MS Dhoni score his first ODI century against?",
+    "options": ["Pakistan", "Sri Lanka", "Bangladesh", "Australia"],
+    "answer": "Pakistan"
+  },
+  {
+    "question": "In which year did India win the ICC T20 World Cup under MS Dhoni?",
+    "options": ["2007", "2009", "2011", "2013"],
+    "answer": "2007"
+  },
+  {
+    "question": "Which rank did MS Dhoni hold in the Indian Army?",
+    "options": ["Major", "Lieutenant Colonel", "Captain", "General"],
+    "answer": "Lieutenant Colonel"
+  },
+  {
+    "question": "Which movie is based on MS Dhoni's life?",
+    "options": [
+      "The Dhoni Story",
+      "MS Dhoni: The Untold Story",
+      "Captain Cool",
+      "Helicopter Shot"
+    ],
+    "answer": "MS Dhoni: The Untold Story"
+  },
+  {
+    "question": "What is MS Dhoni's famous shot called?",
+    "options": ["Scoop", "Cover Drive", "Helicopter Shot", "Upper Cut"],
+    "answer": "Helicopter Shot"
+  }
+]
